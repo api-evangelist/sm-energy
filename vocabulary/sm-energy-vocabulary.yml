@@ -1,0 +1,212 @@
+vocabulary:
+  name: SM Energy Vocabulary
+  description: >-
+    Domain vocabulary for SM Energy Company (NYSE: SM), an independent oil and gas
+    exploration and production company. Covers upstream oil and gas operations,
+    basin terminology, production metrics, reserve classifications, and financial
+    reporting concepts relevant to an E&P company.
+  created: '2026-05-02'
+  modified: '2026-05-02'
+  tags:
+    - Oil and Gas
+    - Energy
+    - Exploration
+    - Production
+    - Permian Basin
+
+terms:
+  # Company Overview
+  - term: E&P (Exploration and Production)
+    definition: >-
+      The upstream segment of the oil and gas industry focused on finding
+      (exploration) and extracting (production) crude oil, natural gas, and
+      natural gas liquids from the earth. SM Energy is classified as an
+      independent E&P company.
+    tags:
+      - Industry
+      - Operations
+
+  - term: Independent Oil and Gas Company
+    definition: >-
+      An oil and gas company focused on exploration and production that does
+      not own downstream refining, pipeline, or marketing assets. Unlike
+      integrated majors (ExxonMobil, Chevron), independents like SM Energy
+      focus solely on upstream operations.
+    tags:
+      - Industry
+      - Business
+
+  # Basin Terminology
+  - term: Permian Basin
+    definition: >-
+      A large sedimentary basin in West Texas and southeastern New Mexico that
+      is the most prolific oil-producing region in the United States. SM Energy
+      operates in the Midland Basin sub-basin of the Permian, which represents
+      approximately 47% of its production.
+    tags:
+      - Geography
+      - Operations
+
+  - term: Maverick Basin
+    definition: >-
+      An oil and natural gas producing region in southwest Texas (also known as
+      the Eagle Ford Shale in South Texas). SM Energy's South Texas operations
+      represent approximately 48% of the company's total production.
+    tags:
+      - Geography
+      - Operations
+
+  - term: DJ Basin
+    definition: >-
+      The Denver-Julesburg Basin, a sedimentary basin spanning northeastern
+      Colorado, southeastern Wyoming, and southwestern Nebraska. SM Energy
+      expanded into the DJ Basin through its 2026 merger with Civitas Resources.
+    tags:
+      - Geography
+      - Operations
+
+  - term: Uinta Basin
+    definition: >-
+      An oil and natural gas basin in northeastern Utah that is part of SM Energy's
+      production portfolio. The Uinta Basin contributes approximately 5% of the
+      company's total daily production.
+    tags:
+      - Geography
+      - Operations
+
+  # Production Terms
+  - term: MBoe/d (Thousand Barrels of Oil Equivalent per Day)
+    definition: >-
+      A unit measuring daily production volume that converts natural gas and
+      NGLs to an oil-equivalent basis. One barrel of oil is equivalent to 6,000
+      cubic feet (6 Mcf) of natural gas. SM Energy's average daily production
+      is approximately 206.8 MBoe/d.
+    tags:
+      - Production
+      - Metrics
+
+  - term: BOE (Barrel of Oil Equivalent)
+    definition: >-
+      A unit of energy that equates different fossil fuel types to the energy
+      content of one barrel of crude oil. Used to report combined production
+      of oil, natural gas, and NGLs on a common basis.
+    tags:
+      - Production
+      - Metrics
+
+  - term: NGLs (Natural Gas Liquids)
+    definition: >-
+      Hydrocarbon components extracted from natural gas including ethane,
+      propane, butane, isobutane, and natural gasoline. NGLs represent
+      approximately 18% of SM Energy's proved reserves.
+    tags:
+      - Production
+      - Commodities
+
+  - term: Proved Reserves
+    definition: >-
+      Quantities of oil and gas estimated with reasonable certainty to be
+      commercially recoverable from known reservoirs under existing economic
+      conditions and operating methods. SM Energy reports approximately 673
+      MMBoe of total estimated proved reserves.
+    tags:
+      - Reserves
+      - Regulatory
+
+  - term: MMBoe (Million Barrels of Oil Equivalent)
+    definition: >-
+      One million barrels of oil equivalent. Used to express total proved
+      reserves over a company's entire portfolio.
+    tags:
+      - Reserves
+      - Metrics
+
+  # Drilling and Operations
+  - term: Horizontal Well
+    definition: >-
+      A well drilled at an angle until it becomes horizontal within a
+      target formation, allowing greater contact with the producing reservoir
+      than a vertical well. Horizontal drilling combined with hydraulic
+      fracturing is the primary technique used in shale formations like
+      the Eagle Ford and Permian Basin.
+    tags:
+      - Drilling
+      - Operations
+
+  - term: Hydraulic Fracturing (Fracking)
+    definition: >-
+      A well stimulation technique that injects fluid at high pressure to
+      create fractures in rock formations, allowing oil and natural gas to
+      flow to the wellbore more easily. Essential for production from tight
+      shale formations where SM Energy operates.
+    tags:
+      - Drilling
+      - Operations
+
+  - term: Net Producing Wells
+    definition: >-
+      The total number of producing wells owned by a company, adjusted for
+      the company's working interest (ownership percentage) in each well.
+      SM Energy operates approximately 1,573 net producing wells.
+    tags:
+      - Operations
+      - Metrics
+
+  - term: Working Interest
+    definition: >-
+      An ownership interest in an oil and gas lease that gives the owner the
+      right to explore, develop, and produce from the property while bearing
+      a proportionate share of costs and entitled to a proportionate share of
+      production revenues.
+    tags:
+      - Business
+      - Legal
+
+  # Financial Terms
+  - term: Capital Expenditures (CapEx)
+    definition: >-
+      Funds used by SM Energy to acquire, upgrade, or maintain physical assets
+      for oil and gas exploration and production, including drilling costs, well
+      completions, leasehold acquisitions, and infrastructure investments.
+    tags:
+      - Financial
+      - Operations
+
+  - term: Hedging
+    definition: >-
+      Financial risk management strategies used by SM Energy to fix or limit
+      exposure to oil and gas price volatility. Common instruments include
+      fixed-price swaps, costless collars, and put options on future production.
+    tags:
+      - Financial
+      - Risk Management
+
+  - term: LOE (Lease Operating Expense)
+    definition: >-
+      The cost of operating oil and gas wells, including labor, fuel, repairs,
+      supplies, and other day-to-day expenses. A key efficiency metric for
+      E&P companies reported on a per-BOE basis.
+    tags:
+      - Financial
+      - Operations
+
+  # Corporate Events
+  - term: Civitas Resources Merger
+    definition: >-
+      SM Energy completed a merger with Civitas Resources in early 2026,
+      a $12.8 billion combination of near-equals that expanded SM's operations
+      into the DJ Basin in Colorado and significantly increased its Permian
+      Basin footprint.
+    tags:
+      - Corporate
+      - Merger
+
+  - term: SEC EDGAR
+    definition: >-
+      The U.S. Securities and Exchange Commission's Electronic Data Gathering,
+      Analysis, and Retrieval system. SM Energy files 10-K (annual), 10-Q
+      (quarterly), 8-K (material events), and proxy statements through EDGAR
+      as a publicly traded company (NYSE: SM).
+    tags:
+      - Regulatory
+      - Financial Reporting
