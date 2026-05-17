@@ -44,7 +44,7 @@ apis:
       - url: https://www.sm-energy.com/about-us/fact-sheet
         type: FactSheet
       - url: json-ld/sm-energy-context.jsonld
-        type: JSON-LD
+        type: JSONLD
       - url: vocabulary/sm-energy-vocabulary.yml
         type: Vocabulary
     description: >-
@@ -70,7 +70,7 @@ common:
     url: https://www.sm-energy.com/owner-relations
   - type: Sustainability
     url: https://www.sm-energy.com/esg
-  - type: JSON-LD
+  - type: JSONLD
     url: json-ld/sm-energy-context.jsonld
   - type: Vocabulary
     url: vocabulary/sm-energy-vocabulary.yml
