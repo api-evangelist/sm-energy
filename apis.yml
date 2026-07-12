@@ -55,6 +55,8 @@ apis:
       proved reserves, capital expenditures, and hedging positions across its
       Permian, Maverick, DJ, and Uinta Basin operations.
 common:
+  - type: DomainSecurity
+    url: security/sm-energy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/sm-energy-company
   - type: Website
