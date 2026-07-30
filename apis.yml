@@ -9,7 +9,19 @@ tags:
   - Permian Basin
   - Fortune 1000
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: enterprise
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Enterprise
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sm-energy.png
 access: 3rd-Party
 created: '2026-05-02'
 modified: '2026-05-02'
