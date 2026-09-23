@@ -1,7 +1,9 @@
 ---
 title: SM ENERGY APPOINTS DR. ASHWIN VENKATRAMAN ...
 url: https://www.sm-energy.com/investors/news-events/press-releases/detail/342/sm-energy-appoints-dr-ashwin-venkatraman-to-the-companys-board-of-directors
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SM Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Sustainability
 url: https://www.sm-energy.com/sustainability
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SM Energy" press release artificial intelligence'
 position: 4
 source: serpapi-google

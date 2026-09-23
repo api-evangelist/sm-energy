@@ -1,7 +1,9 @@
 ---
 title: SM Energy details Civitas merger and capital returns
 url: https://www.stocktitan.net/sec-filings/SM/def-14a-sm-energy-co-definitive-proxy-statement-27018c62b7d4.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SM Energy" press release artificial intelligence'
 position: 5
 source: serpapi-google
