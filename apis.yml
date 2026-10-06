@@ -35,7 +35,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/sm-energy.png
 access: 3rd-Party
 created: '2026-05-02'
-modified: '2026-05-02'
+modified: '2026-10-06'
 position: Consuming
 segments:
   - Energy
@@ -78,6 +78,8 @@ apis:
       proved reserves, capital expenditures, and hedging positions across its
       Permian, Maverick, DJ, and Uinta Basin operations.
 common:
+  - url: https://www.sm-energy.com/investors/news-events/press-releases/rss
+    type: BlogRSS
   - type: DomainSecurity
     url: security/sm-energy-domain-security.yml
   - type: LinkedIn
