@@ -1,0 +1,14 @@
+{
+  "repo": "sm-energy",
+  "feeds": [
+    {
+      "source": "https://www.sm-energy.com/investors/news-events/press-releases/rss",
+      "feed_url": "https://www.sm-energy.com/investors/news-events/press-releases/rss",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
